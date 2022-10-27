@@ -1,7 +1,7 @@
 # Walmart
-Block n°3: Predictive analysis of structured data by artificial intelligence.
+Block n°3: Supervised Machine Learning
 
-video link: ??
+video link: **
 
 code: bloc_3_Walmart.ipynb
 
@@ -9,12 +9,6 @@ code: bloc_3_Walmart.ipynb
 data: Walmart_Store_sales.csv
 
 
-
-
-
-
-
-PROJECTS Supervised Machine Learning
 
 Walmart : predict weekly sales Company's Description 📇 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
 
