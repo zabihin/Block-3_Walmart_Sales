@@ -3,12 +3,10 @@ Block n°3: Predictive analysis of structured data by artificial intelligence.
 
 video link: ??
 
-notebook to launch: walmart_project.ipynb
+code: bloc_3_Walmart.ipynb
+
 
 data: Walmart_Store_sales.csv
-
-
-
 
 
 
