@@ -1,4 +1,5 @@
 # Walmart
+project for Jedha Bootcamp Fullstack course
 Block n°3: Supervised Machine Learning
 
 video link: **
