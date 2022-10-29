@@ -2,7 +2,7 @@
 project for Jedha Bootcamp Fullstack course
 Block n°3: Supervised Machine Learning
 
-video link: **
+video link: will be uploaded
 
 code: bloc_3_Walmart.ipynb
 
