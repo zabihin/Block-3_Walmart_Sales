@@ -2,12 +2,12 @@
 project for Jedha Bootcamp Fullstack course
 Block n°3: Supervised Machine Learning
 
-video link: will be uploaded
+email : zabihin@gmail.com
 
-code: bloc_3_Walmart.ipynb
+video link : https://share.vidyard.com/watch/ccas7kYPvNvBztLH2AcA2Y?
 
+repository's URL : https://github.com/zabihin/Walmart_Sales
 
-data: Walmart_Store_sales.csv
 
 
 
